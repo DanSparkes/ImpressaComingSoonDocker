@@ -90,9 +90,9 @@ position: relative;
 width: 100%;
 }
 
-.css-el-4000 h1{
+/*.css-el-4000 h1{
 right: 0;
-}
+}*/
 
 h1{
 padding: 12px 70px 12px 20px;
@@ -107,6 +107,19 @@ font-size: 38px;
 
 h1 cufon{
 margin-bottom: -4px;
+}
+
+.description{
+padding: 12px 70px 12px 20px;
+position: absolute;
+text-align:left;
+top: 75%;
+float: left;
+color: #fff;
+letter-spacing: -1px;
+font-size: 16px;
+line-height: 26px;
+font-style: italic;
 }
 
 h3{
